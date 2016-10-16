@@ -1,2 +1,3 @@
 Hello new file
 one new line added
+second line added
